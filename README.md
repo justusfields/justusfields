@@ -6,7 +6,7 @@
   - [Landing Page A/B Test](https://github.com/justusfields/LandingPageABTest) 
   - [Manufacturing Downtime Analysis](https://github.com/justusfields/ManufacturingDowntimeAnalysis)
 - <b>SQL</b>
-  - [Sales Pipeline Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Sales Pipeline Analysis](https://github.com/justusfields/SalesPipelineAnalysis) <b><i>(Potentially NSFW)</b></i>
   - [Hospital Analytics](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Power BI</b>
   - [Subscription Cohort Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
