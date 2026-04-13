@@ -9,7 +9,7 @@
   - [Sales Pipeline Analysis](https://github.com/justusfields/SalesPipelineAnalysis) <b><i></b></i>
   - [Hospital Analytics](https://github.com/justusfields/HospitalAnalytics) <b><i></b></i>
 - <b>Power BI</b>
-  - [Subscription Cohort Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Subscription Cohort Analysis](https://github.com/justusfields/SubscriptionCohortAnalysis)
   - [Airline Loyalty Program](https://github.com/joshmadakor1/AD_PS)
 
 - <b>Python</b>
