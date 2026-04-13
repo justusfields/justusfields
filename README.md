@@ -3,8 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Excel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -17,6 +16,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
