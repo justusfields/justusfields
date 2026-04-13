@@ -13,7 +13,7 @@
   - [Airline Loyalty Program](https://github.com/joshmadakor1/AD_PS)
 
 - <b>Python</b>
-  - [AirBnb Listing Analysis)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AirBnb Listing Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
