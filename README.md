@@ -4,7 +4,7 @@
 
 - <b>Excel</b>
   - [Landing Page A/B Test](https://github.com/justusfields/LandingPageABTest) 
-  - [Manufacturing Downtime Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Manufacturing Downtime Analysis](https://github.com/justusfields/ManufacturingDowntimeAnalysis)
 - <b>SQL</b>
   - [Sales Pipeline Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [Hospital Analytics](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
